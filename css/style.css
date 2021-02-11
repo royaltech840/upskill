@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    box-sizing: border-box;
+    /* overflow-x: hidden; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+nav {
+    display: block;
+    width: 100vw;
+}
+
+.main {
+    text-align: center;
+    background-color: rgb(211, 211, 211);
+}
+
+/* IMAEGS */
+.img {
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center  ;
+}
+
+
+/* ONE */
+
+.one {
+    padding: 5% 7%;
+    text-align: center;
+}
+
+.one-text {
+    font-size: 24px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+/* TWO */
+
+.two {
+    padding: 5% 7%;
+    text-align: center;
+    background-color: rgb(231, 231, 231);
+}
+
+ul li {
+    list-style: none;
+}
+
+/* DISCOVER */
+
+.discover, .pay, .footer {
+    padding: 5% 7%;
+    text-align: center;
+}
+
+.pay {
+    background-color: rgb(231, 231, 231);
+}
+
+
+
+/* ABOUT */
+
+
+.about {
+    padding: 5% 7%;
+    text-align: center;
+    background-color: rgb(231, 231, 231);
+    line-height: 2;
+}
+
+.me {
+    width: 70%;
+}
+
+/* ABOUT */
+
+.ttt:hover {
+    transform: scale(0.9);
+}
+.bonus {
+    padding: 5% 7%;
+    text-align: center;
+}
+
+.rule {
+    width: 15%;
+    height: 2px;
+    background: #000;
+    margin: 10px auto 0;
+}
+/* @media (max-width: 500px) {
+    .img {
+        width: 100%;
+    }
+    
+} */
